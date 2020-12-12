@@ -25,6 +25,7 @@ body{
   transition: 0.3s;
   animation-name: glow;
   animation-duration: 4s;
+  color: white;
   animation-iteration-count: infinite;
 }
 
@@ -45,7 +46,6 @@ body{
   width: 200px;
   height: 30px;
   outline: none;
-  color: #0090ff;
   border-radius: 24px;
   transition: 0.3s;
 }
