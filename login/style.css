@@ -45,7 +45,7 @@ body{
   width: 200px;
   height: 30px;
   outline: none;
-  color: white;
+  color: black;
   border-radius: 24px;
   transition: 0.3s;
 }
@@ -58,6 +58,7 @@ body{
 
 .box input[type = "text"]:hover,.box input[type= "password"]:hover{
   border-color: #38ada9;
+  color: white;
 }
 
 .box input[type = "submit"]{
